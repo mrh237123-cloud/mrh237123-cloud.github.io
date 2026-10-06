@@ -9,3 +9,4 @@ a { color: var(--accent); }
 .lead { font-size: 1.15rem; color: var(--muted); }
 .small { font-size: .9rem; color: var(--muted); }
 code { font-size: .9em; }
+.notice { border-left: 4px solid var(--accent); padding: .6rem 1rem; background: rgba(184, 134, 11, .08); }
